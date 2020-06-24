@@ -1,0 +1,4 @@
+IDE Used: Oracle Jdeveloper
+
+Main class to run using terminal: ParkingSystem.java
+Main class to run for Junits: TestRunner.java
